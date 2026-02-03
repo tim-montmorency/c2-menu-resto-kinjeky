@@ -1,9 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22507254&assignment_repo_type=AssignmentRepo)
 # Menu de Restaurant
 
-**Nom de l'étudiant :** [Votre nom]  
+**Nom de l'étudiant :** Nanthapricha Beaulieu 
 **Date :** [Date]  
-**Restaurant choisi :** [Nom de votre restaurant fictif ou inspiré]
+**Restaurant choisi :** Jones BBQ and foot massage
 
 ## Instructions de l'exercice
 
@@ -11,28 +11,31 @@
 
 ## Description
 
-[Décrivez brièvement votre menu et vos choix de design]
+Je me suis inspiré des couleurs des années 2000 ainsi qu'un vieex meme du Jones BBQ and Foot Massage. 
 
 ## Choix techniques
 
 **Palette de couleurs :**
 
-- Primaire : #2c3e50
-- Secondaire : #e74c3c
-- [Ajoutez vos couleurs]
+- Primaire : #6e0fbd
+- Secondaire : #ff0000
+- rgb(16, 86, 29)
+- #c4df18
+- aqua
+- rgb(0, 0, 0)
 
 **Police utilisée :**
 
-- [Nom de la police Google Fonts ou autre]
+- Miltonian
 
 **Décisions CSS notables :**
 
-- [Expliquez vos choix techniques intéressants]
+- j'ai foutu des px random partout
 
 ## Difficultés rencontrées
 
-[Optionnel : Quels aspects ont été difficiles?]
+Je suis vraiment pas bon en css donc j'ai du tout re-apprendre. RIP
 
 ## Améliorations futures
 
-[Optionnel : Qu'aimeriez-vous ajouter?]
+- J'ai envie d'ajouter plus de couleur mais il y avait une restriction sur le nombre maxium de couleur et je ne peut pas exploiter l'air 2010.
